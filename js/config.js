@@ -4,7 +4,7 @@
  */
 window.MISSION = {
   name: "Muskan",
-  from: "Audil",
+  from: "kuchu puchu ",
 
   // Codes she types. Not case-sensitive; spaces and dashes are ignored.
   codes: {
